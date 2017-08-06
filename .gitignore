@@ -1,1 +1,5 @@
 /chap01/main
+*/target/debug/*
+*/target/release/*
+/chap01/projects/hello_cargo/target
+/chap01/projects/hello_cargo/Cargo.lock
