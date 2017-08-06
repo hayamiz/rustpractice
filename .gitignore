@@ -2,4 +2,5 @@
 */target/debug/*
 */target/release/*
 /chap01/projects/hello_cargo/target
-/chap01/projects/hello_cargo/Cargo.lock
+Cargo.lock
+/chap02/guessing_game/target
